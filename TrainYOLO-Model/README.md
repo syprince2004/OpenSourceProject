@@ -27,4 +27,3 @@
 ```bash
 python train.py --model yolov8m.pt --data data.yaml --epochs 50 --img 640
 
-
